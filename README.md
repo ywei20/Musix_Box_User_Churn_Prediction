@@ -1,5 +1,5 @@
 # Music Box Churn Prediction and Recommendation (Spark)
-====
+
 The idea is to predict user churn rate based on users' previous activities.
 
 
